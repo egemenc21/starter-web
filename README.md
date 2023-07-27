@@ -12,3 +12,7 @@ Purpose texttt
 ## Deployment
 Deployment texttt
 Sample website with plenty of files for demos
+
+## Copyright
+
+Git.train 2023 
