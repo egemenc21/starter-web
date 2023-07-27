@@ -13,6 +13,9 @@ Purpose texttt
 Deployment texttt
 Sample website with plenty of files for demos
 
+## How To Contribute 
+Please fork this repo and then issue Pull reqs
+
 ## Copyright
 
-Git.train 2023 
+Git.training 2023 
