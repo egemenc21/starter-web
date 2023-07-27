@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Egemen Celik egemenc2101@gmail.com egemenc
 
 # THANKS
 
