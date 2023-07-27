@@ -18,4 +18,4 @@ Please fork this repo and then issue Pull reqs
 
 ## Copyright
 
-Git.training 2023 
+Git.training 2023. All rights reserved
