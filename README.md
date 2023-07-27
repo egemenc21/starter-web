@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub works. Adding a line for reabasing example. then more changessss
+This repository is for showing how Git and GitHub works. Adding a line for reabasing example. Emergency fix after stashinggggg
 
 ## Introduction
 
